@@ -78,7 +78,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## 规范
 
-1.文件夹命名全部小写,如果多个单词用中杠（-）间隔
+1.文件夹命名全部小写,如果多个单词用中杠（-）间隔111111
 
 2.文件，小驼峰命名法。eg：login、addUser
 
